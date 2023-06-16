@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-resultssummarycomponent-made-with-flexbox-fetched-data-01RK0KIMkk))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://x6nenko.github.io/1-lvl-results-summary-component/))
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-resultssummarycomponent-made-with-flexbox-fetched-data-01RK0KIMkk)
+- Live Site URL: [Add live site URL here](https://x6nenko.github.io/1-lvl-results-summary-component/)
 
 ## My process
 
